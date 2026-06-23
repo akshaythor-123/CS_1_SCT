@@ -1,4 +1,3 @@
-# Caesar Cipher Encryption and Decryption
 
 def encrypt_message(text, shift_value):
     encrypted_text = ""
